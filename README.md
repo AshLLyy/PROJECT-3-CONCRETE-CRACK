@@ -8,19 +8,13 @@ https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
 MODEL ARCHITECTURE 
 
-![image](https://github.com/user-attachments/assets/23742dba-5762-4cf7-954a-e6274e0b9f34)
-
+![FMODEL ARCHITECTURE](https://github.com/user-attachments/assets/82cf32ca-5e91-488f-a7a2-0159d3e66fcc)
 
 MODEL PERFORMANCE (LOSS GRAF)
-- FIRST TRAINING
 
-![image](https://github.com/user-attachments/assets/b7da2144-e649-4d5f-93a4-1c71b9e89433)
+![LOSS GRAF ](https://github.com/user-attachments/assets/0731669f-a54e-4767-95a1-d3c87650e1aa)
 
-
-- SECOND TRAINING
-
-  
 FILE NAME
 
-- Main Code: project 3.py
+- Main Code: project_3.py
 - Model: cnn_model.h5
