@@ -17,4 +17,6 @@ MODEL PERFORMANCE (LOSS GRAF)
 FILE NAME
 
 - Main Code: project_3.py
-- Model: cnn_model.h5
+- Model: cnn_model.h5 in cnn_model.zip (link: https://drive.google.com/file/d/1fctUzO-CFXpopz6NFjiRgjI306Zcq9Qv/view?usp=drive_link) 
+
+*model file size is 152 MB. Thus, the file cannot upload at github. I upload at my drive so, the model can get there.
