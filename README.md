@@ -6,11 +6,21 @@ The dataset can get from link below.
 
 https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
-MODEL ARCHITECTURE
+MODEL ARCHITECTURE 
+
+![image](https://github.com/user-attachments/assets/23742dba-5762-4cf7-954a-e6274e0b9f34)
+
 
 MODEL PERFORMANCE (LOSS GRAF)
+- FIRST TRAINING
 
+![image](https://github.com/user-attachments/assets/b7da2144-e649-4d5f-93a4-1c71b9e89433)
+
+
+- SECOND TRAINING
+
+  
 FILE NAME
 
-- Main Code:
-- Model:
+- Main Code: project 3.py
+- Model: cnn_model.h5
