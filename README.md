@@ -8,15 +8,15 @@ https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
 MODEL ARCHITECTURE 
 
-![FMODEL ARCHITECTURE](https://github.com/user-attachments/assets/82cf32ca-5e91-488f-a7a2-0159d3e66fcc)
+![FMODEL ARCHITECTURE](https://github.com/user-attachments/assets/3ccf8477-5b63-4f76-93ce-849f9eedcb8d)
 
 MODEL PERFORMANCE (LOSS GRAF)
 
-![LOSS GRAF ](https://github.com/user-attachments/assets/0731669f-a54e-4767-95a1-d3c87650e1aa)
+![LOSS GRAF ](https://github.com/user-attachments/assets/c4d0e482-fe48-4e3d-bc8f-58b81867d634)
 
 FILE NAME
 
 - Main Code: project_3.py
-- Model: cnn_model.h5 in cnn_model.zip (link: https://drive.google.com/file/d/1fctUzO-CFXpopz6NFjiRgjI306Zcq9Qv/view?usp=drive_link) 
+- Model: cnn_model.keras in model.zip (link: https://drive.google.com/file/d/1hrcAu6EBK_u3bYgObFuRDD0jWysyhOKr/view?usp=drive_link) 
 
 *model file size is 152 MB. Thus, the file cannot upload at github. I upload at my drive so, the model can get there.
